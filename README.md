@@ -1,4 +1,4 @@
-# Assignment4: Database basics
+# Assignment 4: Database basics
 
 This assignment gives you practice working with structured information with databases. I practiced working with querying for information. 
 
